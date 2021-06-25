@@ -1,0 +1,1 @@
+export type typeTransaction = 'deposit' | 'withdraw';
